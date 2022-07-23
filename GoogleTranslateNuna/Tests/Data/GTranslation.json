@@ -1,0 +1,9 @@
+﻿{
+  "sourceLanguage": "German",
+  "targetLanguage": "Spanish",
+  "initialText": "Demokratie",
+  "expectedText": "la democracia",
+  "keyBoard": "Hi!"
+}
+
+
